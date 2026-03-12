@@ -11,3 +11,5 @@ typedef struct Host {
 } THost;
 
 int idx(int x, int y, int k);
+
+#endif // HOST_H
